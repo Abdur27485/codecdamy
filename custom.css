@@ -7,3 +7,21 @@ body{
     width: 180px;
     height: 70px;
 }
+
+/* carousel */
+.carousel-caption{
+    position: absolute !important;
+    left: 0 !important;
+    right: 0 !important;
+    top: 0 !important;
+    bottom: 0 !important;    
+}
+.carousel-content{
+    height: 100%;
+    margin: 0 auto;
+    width: 70% !important;
+}
+.carousel-img{
+    height: 80vh;
+    filter: brightness(50%);
+}
