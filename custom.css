@@ -39,4 +39,7 @@ body{
     .carousel-img{
         height: 60vh;
     }
+    body{
+        background-color: white;
+    }
   }
