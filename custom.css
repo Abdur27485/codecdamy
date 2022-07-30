@@ -1,0 +1,9 @@
+/* common styles */
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+  }
+  .logo{
+    width: 180px;
+    height: 70px;
+}
